@@ -13,7 +13,7 @@ Make sure you have the following installed:
 - Required Python packages: Selenium, BeautifulSoup, pandas, gspread
 
 ``bash
-pip install selenium pandas gspread)
+pip install selenium pandas gspread
 
 ## Project Structure
 `linkedinwebscraping.ipynb`: Main script for web scraping.
